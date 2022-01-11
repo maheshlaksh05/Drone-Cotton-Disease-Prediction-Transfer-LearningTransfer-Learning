@@ -1,1 +1,2 @@
-# Drone-Cotton-Disease-Prediction-Transfer-Learning-DeepLearning
+# Drone-Cotton-Disease-Prediction-TransferLearning-DeepLearning
+
