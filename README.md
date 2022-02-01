@@ -1,5 +1,6 @@
 # Drone-Cotton-Disease-Prediction-TransferLearning-DeepLearning
 ![image](https://user-images.githubusercontent.com/97341259/151927170-3c41c854-f50e-4352-ac2c-37bc5edc0631.png)
+![image](https://user-images.githubusercontent.com/97341259/151927553-1f6ae470-8514-4fd7-b02a-701a4a8f3a2d.png)
 
 The identity and convolution blocks coded in the notebook are then combined to create a ResNet-50 model with the architecture shown below:
 
